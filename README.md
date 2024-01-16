@@ -1,35 +1,26 @@
 # Hello, World! 👋
 
-I'm Alexandros Pantakis, a Production Engineer based in Petrinwn, Greece.
+I'm Alexandros Pantakis, an experienced hardware engineer passionate about fixing and maintaining devices like smartphones, computers, and game consoles. With a solid background in both hardware and software troubleshooting, I ensure devices run smoothly through routine maintenance.
 
-👨‍💻 **Work Experience:**
-- **ES Systems (Koropi, Greece) - Production Engineer**
-  - *December 2023 – Present*
-  - Soldering and assembling electronic components.
-  - Collaborating with cross-functional teams to improve production efficiency.
-  - Conducting tests and inspections to identify defects and implement corrective actions.
-  - Implementing safety and quality control procedures.
-  - Inventory management and optimization.
-  - Continuous improvement initiatives for production processes.
+🔧 **Professional Highlights:**
+- 📱 Hardware Repair: Smartphones, Computers, Game Consoles
+- 💻 Software Troubleshooting: Diagnosing and Resolving Issues
+- 🛠 Routine Maintenance: Keeping Devices in Top Shape
+- 🌐 Remote Tech Support: Assisting Users Anywhere
+- 🏭 Production Engineer: Ensuring efficient production processes with a focus on quality.
 
-- **iRed Electronics (Rafina, Greece) - Computer Technician Engineer**
-  - *December 2021 – November 2023*
-  - Repairs and maintenance of mobile devices, including smartphones and tablets.
-  - Diagnosis and resolution of hardware and software issues.
-  - Replacement of damaged components.
-  - Updating devices with the latest software for optimal performance.
-  - Exceptional customer service and strong problem-solving skills.
-  - Inventory management and use of accounting software.
-  - Maintenance of game consoles (Xbox, PlayStation, Nintendo).
+🌟 **Personal Interests:**
+- 🏃‍♂️ Jogging: Stay active, stay healthy.
+- 🎵 Listening to Lofi Music: Find focus and productivity in calming beats.
+- 📚 Reading Books: Explore diverse topics, especially for personal development.
+- 🔧 DIY Projects: Apply creativity and problem-solving skills to various projects.
+- 🎮 Online Gaming: Unwind and socialize in the virtual realms.
 
-- **GCCS (Glavas|Computer Control System) (Athens, Greece) - IT Support Technician**
-  - *January 2018 – December 2021*
-  - Configuration and maintenance of workstations and laptops.
-  - Installation and configuration of software and operating systems.
-  - Hardware and software upgrades.
-  - Technical support for end-users.
-  - Regular system maintenance and updates.
-  - IT infrastructure management and maintenance.
+🚀 **Coming Soon:**
+- 💻 Learning Programming: Embarking on a journey to dive into the world of programming.
+
+
+
 
 🚀 **About Me:**
 - 📅 Date of Birth: September 9, 1995
